@@ -1,0 +1,35 @@
+# Vivado generated project and build directories
+build/
+vivado_project/
+.Xil/
+.cache/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.gen/
+
+# Vivado logs and journals
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.pb
+
+# Generated implementation artifacts
+*.bit
+*.bin
+*.mcs
+*.ltx
+*.dcp
+
+# Reports are generated outputs; archive selected reports separately if needed
+*.rpt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

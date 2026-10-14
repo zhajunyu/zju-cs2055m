@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"mshr-h.veriloghdl"
+		]
+	},
+	"settings": {}
+}
